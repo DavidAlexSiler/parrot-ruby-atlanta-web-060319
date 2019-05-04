@@ -1,3 +1,3 @@
-def parrot(says = "Squak!")
+def parrot(says = "Squawk!")
   puts()
 end
